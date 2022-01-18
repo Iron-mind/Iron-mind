@@ -5,7 +5,7 @@
 
 I have been developing projects in the programming world for two years. I develop web pages and some applications in Java with postgreSQL. Willing to learn any skill.
 #### 🌱 Things I am currently working on: 
-- Studying my Sistem Engineering Degree  
+- Studying Systems Engineering 
 - Taking online courses about React advanced and Machine Learning
 
 
