@@ -6,7 +6,7 @@
 I have been developing projects in the programming world for two years. I develop web pages and some applications in Java with postgreSQL. Willing to learn any skill.
 #### 🌱 Things I am currently working on: 
 - Studying Systems Engineering 
-- Working as Freelance
+- working as a freelance
 
 
 #### :muscle: Things I am challenging myself with:
