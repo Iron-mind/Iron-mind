@@ -27,3 +27,9 @@ I have been developing projects in the programming world for two years. I develo
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+<p align="center">
+<a href="https://github.com/Iron-mind">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iron-mind&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iron-mind&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
