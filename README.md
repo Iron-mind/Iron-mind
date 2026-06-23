@@ -3,9 +3,9 @@
 
 <img align="right" alt="img" src="https://www.mvps.net/docs/wp-content/uploads/2019/03/hello-world.png" width="50%" height="auto" />
 
-I have been developing projects in the programming world for two years. I develop web pages and some applications in Java with postgreSQL. Willing to learn any skill.
+I have been developing projects in the programming world for 3 years. I develop web platforms. Willing to learn any skill.
 #### 🌱 Things I am currently working on: 
-- Studying Systems Engineering 
+- Learning development with AI 
 - working as a freelance
 
 
